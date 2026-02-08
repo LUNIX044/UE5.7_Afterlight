@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FlatNode 플러그인 예외
+!Plugins/FlatNode/
+!Plugins/FlatNode/**
+!Plugins/FlatNode/Binaries/**
+!Plugins/FlatNode/Binaries/**/*.dll
+!Plugins/FlatNode/Binaries/**/*.pdb
+!Plugins/FlatNode/Binaries/**/*.modules
